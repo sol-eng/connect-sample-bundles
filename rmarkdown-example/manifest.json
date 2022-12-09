@@ -12,7 +12,7 @@
   "packages": {
     "R6": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "R6",
         "Title": "Encapsulated Classes with Reference Semantics",
@@ -37,7 +37,7 @@
     },
     "base64enc": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "base64enc",
         "Version": "0.1-3",
@@ -59,7 +59,7 @@
     },
     "bslib": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "bslib",
         "Title": "Custom 'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'",
@@ -90,7 +90,7 @@
     },
     "cachem": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "cachem",
         "Version": "1.0.6",
@@ -115,7 +115,7 @@
     },
     "digest": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "digest",
         "Author": "Dirk Eddelbuettel <edd@debian.org> with contributions \n by Antoine Lucas, Jarek Tuszynski, Henrik Bengtsson, Simon Urbanek,\n Mario Frasca, Bryan Lewis, Murray Stokely, Hannes Muehleisen,\n Duncan Murdoch, Jim Hester, Wush Wu, Qiang Kou, Thierry Onkelinx, \n Michel Lang, Viliam Simko, Kurt Hornik, Radford Neal, Kendon Bell,\n Matthew de Queljoe, Ion Suruceanu, Bill Denney, Dirk Schumacher,\n and Winston Chang.",
@@ -141,7 +141,7 @@
     },
     "evaluate": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "evaluate",
         "Type": "Package",
@@ -168,7 +168,7 @@
     },
     "fastmap": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "fastmap",
         "Title": "Fast Data Structures",
@@ -193,7 +193,7 @@
     },
     "fs": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "fs",
         "Title": "Cross-Platform File System Operations Based on 'libuv'",
@@ -224,7 +224,7 @@
     },
     "glue": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "glue",
         "Title": "Interpreted String Literals",
@@ -254,7 +254,7 @@
     },
     "highr": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "highr",
         "Type": "Package",
@@ -282,7 +282,7 @@
     },
     "htmltools": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "htmltools",
         "Type": "Package",
@@ -312,7 +312,7 @@
     },
     "jquerylib": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "jquerylib",
         "Title": "Obtain 'jQuery' as an HTML Dependency Object",
@@ -336,7 +336,7 @@
     },
     "jsonlite": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "jsonlite",
         "Version": "1.8.0",
@@ -362,7 +362,7 @@
     },
     "knitr": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "knitr",
         "Type": "Package",
@@ -392,7 +392,7 @@
     },
     "magrittr": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Type": "Package",
         "Package": "magrittr",
@@ -421,7 +421,7 @@
     },
     "memoise": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "memoise",
         "Title": "'Memoisation' of Functions",
@@ -446,7 +446,7 @@
     },
     "rappdirs": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Type": "Package",
         "Package": "rappdirs",
@@ -474,7 +474,7 @@
     },
     "rlang": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "rlang",
         "Version": "1.0.6",
@@ -506,7 +506,7 @@
     },
     "rmarkdown": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Type": "Package",
         "Package": "rmarkdown",
@@ -536,7 +536,7 @@
     },
     "sass": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Type": "Package",
         "Package": "sass",
@@ -565,7 +565,7 @@
     },
     "stringi": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "stringi",
         "Version": "1.7.8",
@@ -593,7 +593,7 @@
     },
     "stringr": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "stringr",
         "Title": "Simple, Consistent Wrappers for Common String Operations",
@@ -621,7 +621,7 @@
     },
     "tinytex": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "tinytex",
         "Type": "Package",
@@ -647,7 +647,7 @@
     },
     "xfun": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "xfun",
         "Type": "Package",
@@ -674,7 +674,7 @@
     },
     "yaml": {
       "Source": "PM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/latest",
       "description": {
         "Package": "yaml",
         "Type": "Package",
@@ -699,10 +699,13 @@
   },
   "files": {
     ".Rprofile": {
-      "checksum": "b968dac8fea58602eb5d48e2f67e6829"
+      "checksum": "016ab54cb04e166eb3b3f254ebfd4547"
     },
     "rmarkdown_example.Rmd": {
       "checksum": "95df528e46ff38261638c68b5b6c6084"
+    },
+    "rmarkdown-example.tar.gz": {
+      "checksum": "cafd974ed416785d373941e360438c86"
     },
     "rmarkdown/.Rproj.user/AF7A83A3/pcs/files-pane.pper": {
       "checksum": "d670e4ca84fcea0fd13b861b0de4d411"
