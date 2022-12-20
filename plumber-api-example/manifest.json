@@ -12,7 +12,7 @@
   "packages": {
     "DBI": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "DBI",
         "Title": "R Database Interface",
@@ -44,7 +44,7 @@
     },
     "KernSmooth": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "KernSmooth",
         "Priority": "recommended",
@@ -70,7 +70,7 @@
     },
     "MASS": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "MASS",
         "Priority": "recommended",
@@ -100,7 +100,7 @@
     },
     "R6": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "R6",
         "Title": "Encapsulated Classes with Reference Semantics",
@@ -125,7 +125,7 @@
     },
     "Rcpp": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "Rcpp",
         "Title": "Seamless R and C++ Integration",
@@ -151,7 +151,7 @@
     },
     "class": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "class",
         "Priority": "recommended",
@@ -177,7 +177,7 @@
     },
     "classInt": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "classInt",
         "Version": "0.4-7",
@@ -205,7 +205,7 @@
     },
     "crayon": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "crayon",
         "Title": "Colored Terminal Output",
@@ -231,7 +231,7 @@
     },
     "curl": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "curl",
         "Type": "Package",
@@ -260,7 +260,7 @@
     },
     "e1071": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "e1071",
         "Version": "1.7-11",
@@ -283,7 +283,7 @@
     },
     "ellipsis": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "ellipsis",
         "Version": "0.3.2",
@@ -309,7 +309,7 @@
     },
     "glue": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "glue",
         "Title": "Interpreted String Literals",
@@ -339,7 +339,7 @@
     },
     "httpuv": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "httpuv",
         "Type": "Package",
@@ -369,7 +369,7 @@
     },
     "jsonlite": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "jsonlite",
         "Version": "1.8.0",
@@ -395,7 +395,7 @@
     },
     "later": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "later",
         "Type": "Package",
@@ -424,7 +424,7 @@
     },
     "lifecycle": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "lifecycle",
         "Title": "Manage the Life Cycle of your Package Functions",
@@ -453,7 +453,7 @@
     },
     "magrittr": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Type": "Package",
         "Package": "magrittr",
@@ -482,7 +482,7 @@
     },
     "mime": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "mime",
         "Type": "Package",
@@ -507,7 +507,7 @@
     },
     "plumber": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Encoding": "UTF-8",
         "Package": "plumber",
@@ -540,7 +540,7 @@
     },
     "promises": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "promises",
         "Type": "Package",
@@ -570,7 +570,7 @@
     },
     "proxy": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "proxy",
         "Type": "Package",
@@ -595,7 +595,7 @@
     },
     "rlang": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "rlang",
         "Version": "1.0.6",
@@ -627,7 +627,7 @@
     },
     "s2": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "s2",
         "Title": "Spherical Geometry Operators Using the S2 Geometry Library",
@@ -657,7 +657,7 @@
     },
     "sf": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "sf",
         "Version": "1.0-8",
@@ -687,7 +687,7 @@
     },
     "sodium": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "sodium",
         "Type": "Package",
@@ -713,7 +713,7 @@
     },
     "stringi": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "stringi",
         "Version": "1.7.8",
@@ -741,7 +741,7 @@
     },
     "swagger": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "swagger",
         "Type": "Package",
@@ -767,7 +767,7 @@
     },
     "units": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "units",
         "Version": "0.8-0",
@@ -797,7 +797,7 @@
     },
     "webutils": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "webutils",
         "Type": "Package",
@@ -823,7 +823,7 @@
     },
     "wk": {
       "Source": "PPM",
-      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/bionic/latest",
+      "Repository": "https://packagemanager.rstudio.com/cran/__linux__/jammy/latest",
       "description": {
         "Package": "wk",
         "Title": "Lightweight Well-Known Geometry Parsing",
@@ -850,7 +850,7 @@
   },
   "files": {
     "plumber-api-example.tar.gz": {
-      "checksum": "bf6bd2ed177c25acaaea20305e34042f"
+      "checksum": "30ec7772d4c1a2d7d094030454769e32"
     },
     "plumber.R": {
       "checksum": "c41cb1f088914c0d16292358ce2f3357"
