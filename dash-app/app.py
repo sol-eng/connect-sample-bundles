@@ -22,7 +22,7 @@ app.layout = html.Div(
                             options=[
                                 {"label": i, "value": i} for i in available_indicators
                             ],
-                            value="TEST Fertility rate, total (births per woman)",
+                            value="Fertility rate, total (births per woman)",
                         ),
                         dcc.RadioItems(
                             id="xaxis-type",
